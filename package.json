@@ -10,6 +10,8 @@
   "dependencies": {
     "@rollup/plugin-node-resolve": "^13.0.4",
     "@rollup/plugin-typescript": "^8.2.5",
+    "@types/fs-extra": "^9.0.12",
+    "fs-extra": "^9.1.0",
     "preact": "^10.5.14",
     "rollup": "^2.56.2",
     "tslib": "^2.3.1",
